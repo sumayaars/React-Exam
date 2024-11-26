@@ -100,7 +100,10 @@ export default function Navbar() {
     <button className=' text-sm font-medium text-gray-800  px-4 py-2  rounded-md  hover:bg-gray-800 hover:text-white  ' onClick={handleLogin}>Log In</button>
   )}
 </div>
+
       </div>
+      
     </>
+  
   );
 }
